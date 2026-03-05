@@ -32,8 +32,8 @@ The workflow uses the Seurat R package to perform quality control, normalization
 - Cluster plots and QC plots: save in `figures/` folder  
 
 ## Author
-Your Name – Bioinformatics | Single-Cell RNA Sequencing  
-Email: your.email@example.com  
+Thouhid Islam  – Bioinformatics | Single-Cell RNA Sequencing  
+Email: thouhid.islam03@std.cu.ac.bd 
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` file for details
